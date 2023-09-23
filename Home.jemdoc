@@ -1,0 +1,42 @@
+# jemdoc: menu{MENU}{Home.html}, nofooter  
+==Wanteng Ma
+
+~~~
+{}{img_left}{Wanteng.jpg}{Wanteng}{180}{240}{ } 
+#Grduate student,\n 
+[https://www.math.hkust.edu.hk/ Department of Mathematics], \n
+[https://hkust.edu.hk/  The Hong Kong University of Science and Technology (HKUST)]\n
+
+Clear Water Bay \n
+Kowloon, Hong Kong \n 
+# Phone: \+46 8 790 7000 \n
+# Fax: \+46 8 790 7329\n
+
+Contact: /wmaah/@connect.ust.hk
+~~~
+
+== About Me
+I am a graduate student in Mathematics at HKUST. I am very glad to be advised by [https://www.math.hkust.edu.hk/~madxia/ Prof. Dong Xia]. I received my B.S. in Statistics and B.A. in Management Information Systems (MIS) from Chu Kochen honors College, [https://www.zju.edu.cn/english/ Zhejiang University].  
+
+== Research 
+=== Research Interests
+I am broadly interested in high-dimensional statistics and online learning. Typically, my research focuses on:
+- High-dimensional Inference 
+- Online Allocation
+- Optimization
+- Multiple Testing
+
+# [research.html Find out more].
+=== Papers 
+. Wanteng Ma, Ying Cao, Danny H.K. Tsang, and Dong Xia, \"Optimal Regularized Online Allocation by Adaptive Re-Solving\".
+. Wanteng Ma, Dong Xia, and Jiashuo Jiang, \"Online Allocation with
+High-dimensional Covariates\"
+
+# 1. _First Author_, Second Author, and *Corresponding Author*, "Amazing Paper," /High-impact Journal/, vol.~1, pp.~1--10 (2014). \[[http://arxiv.org/abs/1306.2454 arxiv]\]
+
+== Teaching
+For MATH-1013 students, please check [Teaching.html here] for the tutorial notes
+ 
+# [publications.html Full list of publications].
+# \n
+# [cv.pdf A brief cv].
