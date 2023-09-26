@@ -39,8 +39,8 @@ body {
 	background: white;
 	text-align: left;
 	vertical-align: top;
-	min-width: 800px;
-	width: 800px;
+	min-width: 1000px;
+	width: 1000px;
 }
 
 #layout-menu a {
@@ -187,7 +187,7 @@ dt {
 }
 
 dl {
-	margin-left: 20px;
+	margin-left: 10px;
 }
 
 dd {
