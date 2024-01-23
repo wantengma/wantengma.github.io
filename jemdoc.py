@@ -2,6 +2,8 @@
 
 """jemdoc version 0.7.3, 2012-11-27."""
 
+# use python2 jemdoc.py -c mysite.conf *.jemdoc
+
 # Copyright (C) 2007-2012 Jacob Mattingley (jacobm@stanford.edu).
 #
 # This file is part of jemdoc.
