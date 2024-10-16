@@ -20,8 +20,9 @@ Philadelphia, PA \n
 
 Contact: /wanteng/@wharton.upenn.edu \n
 
-[bio.html  \[Biography\]]  ~~  [MyCV.pdf  \[CV\] ] ~~  [https://scholar.google.com/citations?user=rEpZALcAAAAJ \[Google Scholar\] ]
+[bio.html  \[Biography\]]  ~~  [https://scholar.google.com/citations?user=rEpZALcAAAAJ \[Google Scholar\] ]
 ~~~
+#  ~~  [MyCV.pdf  \[CV\] ]
 
 == About Me
 
@@ -42,10 +43,12 @@ I am broadly interested in high-dimensional statistics and online learning. Typi
 
 # [research.html Find out more].
 === Papers 
+. [https://arxiv.org/pdf/2410.11225 Statistical Inference in Tensor Completion: Optimal Uncertainty Quantification and Statistical-Computational Gaps]. \n
+*Wanteng Ma*, and Dong Xia. 
 . [pubs/Reg_OA.pdf Optimal Regularized Online Allocation by Adaptive Re-Solving]. \n
 *Wanteng Ma*, Ying Cao, Danny H.K. Tsang, and Dong Xia. /Operations Research 2024/.
 . [pubs/Matrix_FDR.pdf Multiple Testing of Linear Forms for Noisy Matrix Completion]. \n 
-*Wanteng Ma*, Lilun Du, Dong Xia, and Ming Yuan. Under revision.
+*Wanteng Ma*, Lilun Du, Dong Xia, and Ming Yuan. 
 . [pubs/High_dim_BwK.pdf High-dimensional Linear Bandits with Knapsacks].\n
 *Wanteng Ma*, Dong Xia, and Jiashuo Jiang. /ICML 2024/.
 
