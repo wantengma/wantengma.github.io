@@ -42,16 +42,17 @@ I am broadly interested in high-dimensional statistics and online learning. Typi
 - Optimization
 
 # [research.html Find out more].
-=== Papers 
+=== Papers
+. [https://arxiv.org/abs/2411.06329 Regret Minimization and Statistical Inference in Online Decision Making with High-dimensional Covariates]. \n
+Congyuan Duan, *Wanteng Ma*, Jiashuo Jiang, and Dong Xia. 
 . [https://arxiv.org/pdf/2410.11225 Statistical Inference in Tensor Completion: Optimal Uncertainty Quantification and Statistical-to-Computational Gaps]. \n
 *Wanteng Ma*, and Dong Xia. 
-. [pubs/Reg_OA.pdf Optimal Regularized Online Allocation by Adaptive Re-Solving]. \n
-*Wanteng Ma*, Ying Cao, Danny H.K. Tsang, and Dong Xia. /Operations Research 2024/.
-. [pubs/Matrix_FDR.pdf Multiple Testing of Linear Forms for Noisy Matrix Completion]. \n 
-*Wanteng Ma*, Lilun Du, Dong Xia, and Ming Yuan. 
 . [pubs/High_dim_BwK.pdf High-dimensional Linear Bandits with Knapsacks].\n
 *Wanteng Ma*, Dong Xia, and Jiashuo Jiang. /ICML 2024/.
-
+. [pubs/Matrix_FDR.pdf Multiple Testing of Linear Forms for Noisy Matrix Completion]. \n 
+*Wanteng Ma*, Lilun Du, Dong Xia, and Ming Yuan. 
+. [pubs/Reg_OA.pdf Optimal Regularized Online Allocation by Adaptive Re-Solving]. \n
+*Wanteng Ma*, Ying Cao, Danny H.K. Tsang, and Dong Xia. /Operations Research 2024/.
 
 # 1. _First Author_, Second Author, and *Corresponding Author*, "Amazing Paper," /High-impact Journal/, vol.~1, pp.~1--10 (2014). \[[http://arxiv.org/abs/1306.2454 arxiv]\]
 # pubs/Matrix_FDR.pdf 
@@ -61,6 +62,9 @@ I am broadly interested in high-dimensional statistics and online learning. Typi
 # [publications.html Full list of publications].
 # \n
 # [cv.pdf A brief cv].
+
+# === Publications
+# === Preprints
 
 == Academic Service
 === Reviewer for Journals
