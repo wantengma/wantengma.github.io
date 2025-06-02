@@ -2,7 +2,7 @@
 ==Wanteng Ma
 
 ~~~
-{}{img_left}{images/Wanteng.jpg}{Wanteng}{180}{240}{ } 
+{ }{img_left}{images/Wanteng-2.jpg}{Wanteng}{180}{240}{}
 Ph.D. student \n 
 [https://statistics.wharton.upenn.edu/ Department of Statistics and Data Science] \n
 [https://www.wharton.upenn.edu/ The Wharton School,] [https://www.upenn.edu/ University of Pennsylvania] \n
@@ -43,18 +43,26 @@ I am broadly interested in high-dimensional statistics and online learning. Typi
 - Optimization
 
 # [research.html Find out more].
-=== Papers
+=== Publications and Preprints
 #  . [https://xxx Conformalized Link Prediction with False Discovery Rate Control]. \n
 . [https://arxiv.org/pdf/2411.06329 Regret Minimization and Statistical Inference in Online Decision Making with High-dimensional Covariates]. \n
 Congyuan Duan, *Wanteng Ma*, Jiashuo Jiang, and Dong Xia. 
 . [https://arxiv.org/pdf/2410.11225 Statistical Inference in Tensor Completion: Optimal Uncertainty Quantification and Statistical-to-Computational Gaps]. \n
-*Wanteng Ma*, and Dong Xia. Major revision at /Annals of Statistics/.
+*Wanteng Ma*, and Dong Xia. \n
+Major revision at /Annals of Statistics/.
 . [https://openreview.net/pdf?id=4lghifYrSU High-dimensional Linear Bandits with Knapsacks].\n
-*Wanteng Ma*, Dong Xia, and Jiashuo Jiang. A short verison available at /ICML 2024/.
+*Wanteng Ma*, Dong Xia, and Jiashuo Jiang. \n
+A short verison available at /ICML 2024/.
 . [https://arxiv.org/abs/2312.00305 Multiple Testing of Linear Forms for Noisy Matrix Completion]. \n 
 *Wanteng Ma*, Lilun Du, Dong Xia, and Ming Yuan. 
 . [pubs/Reg_OA.pdf Optimal Regularized Online Allocation by Adaptive Re-Solving]. \n
-*Wanteng Ma*, Ying Cao, Danny H.K. Tsang, and Dong Xia. /Operations Research 2024/.
+*Wanteng Ma*, Ying Cao, Danny H.K. Tsang, and Dong Xia. \n
+ /Operations Research 2024/.
+
+=== Collaborations
+. [https://www.sciencedirect.com/science/article/abs/pii/S1361841525001768 Mitigating Medical Dataset Bias by Learning Adaptive Agreement from a Biased Council]. \n
+Luyang Luo, Xin Huang, Minghao Wang, Zhuoyue Wan, *Wanteng Ma*, and Hao Chen. \n
+ /Medical Image Analysis 2025/.
 
 # 1. _First Author_, Second Author, and *Corresponding Author*, "Amazing Paper," /High-impact Journal/, vol.~1, pp.~1--10 (2014). \[[http://arxiv.org/abs/1306.2454 arxiv]\]
 # pubs/Matrix_FDR.pdf 
