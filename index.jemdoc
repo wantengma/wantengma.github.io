@@ -44,9 +44,11 @@ I am broadly interested in high-dimensional statistics and online learning. Typi
 
 # [research.html Find out more].
 === Publications and Preprints
-#  . [https://xxx Conformalized Link Prediction with False Discovery Rate Control]. \n
+\* indicates equal contribution.
+. [https://arxiv.org/abs/2507.07025 Conformalized Link Prediction with False Discovery Rate Control]. \n
+Wenqin Du\*, *Wanteng Ma*\*, Dong Xia, Yuan Zhang, and Wen Zhou.\n
 . [https://arxiv.org/pdf/2411.06329 Regret Minimization and Statistical Inference in Online Decision Making with High-dimensional Covariates]. \n
-Congyuan Duan, *Wanteng Ma*, Jiashuo Jiang, and Dong Xia. 
+Congyuan Duan, *Wanteng Ma*, Jiashuo Jiang, and Dong Xia. \n
 . [https://arxiv.org/pdf/2410.11225 Statistical Inference in Tensor Completion: Optimal Uncertainty Quantification and Statistical-to-Computational Gaps]. \n
 *Wanteng Ma*, and Dong Xia. \n
 Major revision at /Annals of Statistics/.
