@@ -27,7 +27,7 @@ Contact: /wanteng/\[@\]wharton\[DOT\]upenn\[DOT\]edu \n
 == About Me
 
 
-I am a PhD student in Statistics at the Wharton School, University of Pennsylvania. I am fortunate to work with [http://www-stat.wharton.upenn.edu/~tcai/ Prof. T. Tony Cai]. Previously, I obtained a MPhil in Mathematics from [https://www.math.hkust.edu.hk/ HKUST], advised by [https://www.math.hkust.edu.hk/~madxia/ Prof. Dong Xia]. 
+I am a PhD student in Statistics at the Wharton School, University of Pennsylvania. I am fortunate to work with [http://www-stat.wharton.upenn.edu/~tcai/ Prof. T. Tony Cai] and [https://yutingwei.github.io Prof. Yuting Wei]. Previously, I obtained a MPhil in Mathematics from [https://www.math.hkust.edu.hk/ HKUST], advised by [https://www.math.hkust.edu.hk/~madxia/ Prof. Dong Xia]. 
 I received my B.S. in Statistics (with honors) and B.A. in Management Information Systems from Chu Kochen Honors College, [https://www.zju.edu.cn/english/ Zhejiang University]. 
 
 # I also work closely with [https://scholars.cityu.edu.hk/person/lilundu Prof. Lilun Du] (City University of Hong Kong), [http://www.columbia.edu/~my2550/ Prof. Ming Yuan] (Columbia University), and [https://jiashuo3.github.io Prof. Jiashuo Jiang] (HKUST).
@@ -40,7 +40,8 @@ I received my B.S. in Statistics (with honors) and B.A. in Management Informatio
 I am broadly interested in high-dimensional statistics and online learning. Typically, my research focuses on:
 - High-dimensional inference 
 - Online decision making
-- Optimization
+- Reinforcement learning
+- Differential privacy 
 
 # [research.html Find out more].
 === Publications and Preprints
