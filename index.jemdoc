@@ -46,6 +46,8 @@ I am broadly interested in high-dimensional statistics and online learning. Typi
 # [research.html Find out more].
 === Publications and Preprints
 \* denotes equal contribution.
+. [https://arxiv.org/abs/2512.24669 Nonparametric Bandits with Single-Index Rewards: Optimality and Adaptivity]. \n
+*Wanteng Ma*, and T. Tony Cai.\n
 . [https://www.arxiv.org/abs/2510.26478 Statistical Inference for Matching Decisions via Matrix Completion under Dependent Missingness]. \n
 Congyuan Duan, *Wanteng Ma*, Dong Xia, and Kan Xu.\n
 . [https://arxiv.org/abs/2507.07025 Conformalized Link Prediction with False Discovery Rate Control]. \n
@@ -86,7 +88,7 @@ Luyang Luo, Xin Huang, Minghao Wang, Zhuoyue Wan, *Wanteng Ma*, and Hao Chen. \n
 
 Journal of Machine Learning Research (*JMLR*), Annals of Statistics (*AOS*), Journal of Econometrics (*JOE*),
 Journal of the American Statistical Association (*JASA*), Journal of Computational and Graphical Statistics (*JCGS*), 
-Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*).
+Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), Statistica Sinica.
 
 ===  Conference/Seminar Presentations
 . Statistical Mathematics Seminar 2025, ISM, Tokyo, Japan, July 24, 2025 \n
