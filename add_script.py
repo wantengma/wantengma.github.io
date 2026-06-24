@@ -2,7 +2,7 @@ from pathlib import Path
 
 html_file = Path("index.html")
 
-clustrmaps_script = """<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=CuL-I4uyFN3tF2XZcj-VZgkHu1uA8SsHDV1oRI3AE1I'></script>
+clustrmaps_script = """<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=353&t=tt&d=CuL-I4uyFN3tF2XZcj-VZgkHu1uA8SsHDV1oRI3AE1I'></script>
 """
 
 content = html_file.read_text(encoding="utf-8")
