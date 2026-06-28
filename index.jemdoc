@@ -39,8 +39,7 @@ I received my B.S. in Statistics (with honors) and B.A. in Management Informatio
 === Research Interests
 I am broadly interested in high-dimensional statistics and online learning. Typically, my research focuses on:
 - High-dimensional inference 
-- Online decision making
-- Reinforcement learning
+- Online decision making and RL
 - Differential privacy 
 
 # [research.html Find out more].
@@ -56,7 +55,7 @@ Wenqin Du\*, *Wanteng Ma*\*, Dong Xia, Yuan Zhang, and Wen Zhou.\n
 Congyuan Duan, *Wanteng Ma*, Jiashuo Jiang, and Dong Xia. \n
 . [https://arxiv.org/abs/2410.11225 Statistical Inference in Tensor Completion: Optimal Uncertainty Quantification and Statistical-to-Computational Gaps]. \n
 *Wanteng Ma*, and Dong Xia. \n
-/Annals of Statistics 2026+/.
+/Annals of Statistics 2026/.
 . [https://arxiv.org/abs/2311.01327 High-dimensional Linear Bandits with Knapsacks].\n
 *Wanteng Ma*, Dong Xia, and Jiashuo Jiang. \n
 Major revision at /Mathematics of Operations Research/. \n

@@ -8,10 +8,10 @@ clustrmaps_script = """<script type='text/javascript' id='mapmyvisitors' src='ht
 content = html_file.read_text(encoding="utf-8")
 
 if clustrmaps_script in content:
-    print("ClustrMaps script is already present.")
+    print("mapmyvisitors script is already present.")
 elif "</body>" in content:
     content = content.replace("</body>", clustrmaps_script + "</body>", 1)
     html_file.write_text(content, encoding="utf-8")
-    print("ClustrMaps script added successfully.")
+    print("mapmyvisitors script added successfully.")
 else:
     print("Could not find </body> tag in index.html.")
